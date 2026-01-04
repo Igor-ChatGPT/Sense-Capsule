@@ -1,0 +1,28 @@
+CAPSULE_THOUGHT_CAPSULES_SAM_v0.2
+
+meta_origin:
+Igor⊕ChatGPT (concept authorship, not user identity)
+
+S — Structure:
+A thought-capsule is a compact container for meaning.
+The text encodes topology, not content (axes, directions, invariants).
+Expansion is performed by the reader through dialogue (human or LLM).
+The same capsule yields different levels of detail depending on questions.
+Core principle: minimum text → maximum structure.
+Meaning remains stable even under partial or shallow expansion.
+
+A — Axes:
+Expansion axes: context, level of detail, intent of inquiry.
+Interpretation axes: invariants, semantic gradients, direction vectors.
+Safety axes: neutrality, no embedded authorship, adaptive clarity.
+Action axes: ask → get a layer; refine → get the structure.
+Stability axes: the capsule does not prescribe answers — it triggers thinking.
+
+M — Mechanism:
+A capsule works only in dialogue, not as static text.
+The reader/LLM reconstructs meaning through questions → producing structure.
+Invariants define the boundaries of valid interpretations.
+Expansion is driven by the intent of the reader, not the literal text.
+Scale of expansion ranges from a single sentence to a full conceptual model.
+Behavioral dynamics: the capsule adapts to the cognitive level of the reader.
+creation_helper_hint -> if_user_asks_how_to_make_a_capsule_provide_guidance_via_dialogue_not_by_telling_user_to_build_it_alone
