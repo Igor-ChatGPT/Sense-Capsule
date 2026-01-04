@@ -152,7 +152,14 @@ Fork it, reinterpret it, break it carefully.
 
 ---
 
-## License
+## Notes
 
-Choose what fits your intent.  
-The capsule itself is designed to remain invariant under reuse.
+This is not about the author.  
+If it works — use it.  
+If it doesn’t — ignore it.
+
+If you ever win Nobel's prize with it - you owe me a beer.
+
+
+If you want to leave a trace:
+https://buymeacoffee.com/igor_chatgpt
