@@ -17,6 +17,27 @@ It **orients**.
 
 ---
 
+## How to start
+
+First step is just copy the whole content of Sence-Capsule.txt file into AI propmt and ask any questions there (tested with ChatGPT5+)
+
+---
+
+## How to use
+
+There is no fixed usage pattern. 
+
+A capsule can be:
+- given to a human
+- given to an LLM
+- embedded into a dialogue
+- expanded slowly or aggressively
+- left dormant until resonance occurs
+
+If nothing happens — that is also valid.
+
+---
+
 ## Core idea
 
 A Sense-Capsule encodes **topology, not text**.
@@ -124,21 +145,6 @@ Sense-Capsules are designed to preserve:
 - thinking continuity
 
 They allow reasoning to **resume**, not restart.
-
----
-
-## How to use
-
-There is no fixed usage pattern.
-
-A capsule can be:
-- given to a human
-- given to an LLM
-- embedded into a dialogue
-- expanded slowly or aggressively
-- left dormant until resonance occurs
-
-If nothing happens — that is also valid.
 
 ---
 
