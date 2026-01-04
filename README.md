@@ -19,7 +19,7 @@ It **orients**.
 
 ## How to start
 
-First step is just copy the whole content of Sence-Capsule.txt file into AI propmt and ask any questions there (tested with ChatGPT5+)
+First step is just copy the whole content of `Sence-Capsule.txt` file into AI propmt and ask any questions there (tested with ChatGPT5+)
 
 ---
 
