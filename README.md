@@ -1,7 +1,7 @@
 # Sense-Capsule
 
-> **A compact container for meaning.**  
-> **Minimum text → maximum structure.**
+> **Structural encoding of meaning.**
+> **Minimum text → maximum reconstructable structure.**
 
 ---
 
@@ -9,162 +9,179 @@
 
 **Sense-Capsule** is a concept and format for *thought-capsules*.
 
-A thought-capsule is **not content** and **not memory**.  
-It is a **structural seed** that allows meaning to be reconstructed through dialogue.
+A thought-capsule is:
 
-The capsule does not explain.  
-It **orients**.
+* not content
+* not memory
+* not explanation
+
+It is a **structural encoding of meaning** that allows reconstruction through dialogue.
+
+The capsule does not explain.
+It **constrains and orients reconstruction**.
 
 ---
 
 ## How to start
 
-First step is just copy the whole content of `Sense-Capsule.txt` file into AI propmt and ask any questions there (tested with ChatGPT5+)
+Copy the content of `Sense-Capsule.txt` into an AI prompt and start asking questions.
+
+Do not try to “read and understand” it fully.
+
+Use it.
+
+---
+
+## Core model
+
+A Sense-Capsule encodes **topology, not text**:
+
+* axes instead of paragraphs
+* invariants instead of conclusions
+* directions instead of answers
+
+Meaning is not delivered.
+It is **reconstructed**.
+
+---
+
+## SAMI model (core)
+
+The capsule is defined by four core components:
+
+### S — Structure
+
+* Encodes topology, not narrative
+* Defines what exists and how it relates
+
+### A — Axes
+
+* Defines independent dimensions of expansion
+* Each axis adds new meaning (not variation)
+
+### M — Mechanism
+
+* Reconstruction via dialogue
+* question → expansion → refinement
+
+### I — Invariants
+
+* Define what **cannot change**
+* Bound valid interpretations
+* Preserve meaning across expansions
+
+---
+
+## Orthogonality
+
+Axes must be **independent**.
+
+Non-orthogonal axes:
+
+* create redundancy
+* introduce ambiguity
+* cause semantic drift
+
+Orthogonality is a core requirement for stable reconstruction.
 
 ---
 
 ## How to use
 
-There is no fixed usage pattern. 
+There is no fixed usage pattern.
 
 A capsule can be:
-- given to a human
-- given to an LLM
-- embedded into a dialogue
-- expanded slowly or aggressively
-- left dormant until resonance occurs
+
+* given to a human
+* given to an LLM
+* embedded into dialogue
+* expanded gradually or aggressively
 
 If nothing happens — that is also valid.
 
 ---
 
-## Core idea
+## What happens in practice
 
-A Sense-Capsule encodes **topology, not text**.
+Different readers:
 
-- axes instead of paragraphs  
-- invariants instead of conclusions  
-- directions instead of answers  
+* produce different expansions
+* at different depths
+* with different trajectories
 
-The same capsule:
-- expands differently for different readers
-- preserves meaning under shallow or partial expansion
-- adapts to human or LLM dialogue
-- never collapses into a single “correct explanation”
+But:
 
----
-
-## SAM Model
-
-The concept is structured using the **SAM** model:
-
----
-
-### S — Structure
-
-- A thought-capsule is a compact container for meaning.
-- The text encodes **structure**, not narrative content.
-- Meaning is expanded by the reader through dialogue (human or LLM).
-- The same capsule yields different levels of detail depending on questions.
-- Core principle: **minimum text → maximum structure**.
-- Meaning remains stable even under partial or shallow expansion.
-
----
-
-### A — Axes
-
-A capsule exposes multiple axes of expansion and interpretation.
-
-**Expansion axes**
-- context
-- level of detail
-- intent of inquiry
-
-**Interpretation axes**
-- invariants
-- semantic gradients
-- direction vectors
-
-**Safety axes**
-- neutrality
-- no embedded authorship
-- adaptive clarity
-
-**Action axes**
-- ask → get a layer  
-- refine → get structure
-
-**Stability axis**
-- the capsule does not prescribe answers  
-- it **triggers thinking**
-
----
-
-### M — Mechanism
-
-- A capsule works **only in dialogue**, not as static text.
-- Meaning is reconstructed through **questions**, not reading.
-- Invariants define the boundaries of valid interpretation.
-- Expansion is driven by **intent**, not literal wording.
-- Expansion scale ranges from:
-  - a single sentence  
-  - to a full conceptual model
-- Behavioral dynamic:
-  - the capsule adapts to the cognitive level of the reader
-
-creation_helper_hint:
-if_user_asks_how_to_make_a_capsule
-→ provide guidance via dialogue
-→ not by telling the user to build it alone
-
+> Core meaning remains stable.
 
 ---
 
 ## What this is NOT
 
-- ❌ Not a summary  
-- ❌ Not documentation  
-- ❌ Not RAG memory  
-- ❌ Not a knowledge base  
-- ❌ Not an answer container  
+* ❌ Not a summary
+* ❌ Not documentation
+* ❌ Not a knowledge base
+* ❌ Not RAG memory
+* ❌ Not an answer container
 
-A Sense-Capsule does not store information.  
-It **stores orientation**.
+A Sense-Capsule does not store answers.
+It **stores constraints on meaning**.
+
+---
+
+## Failure modes
+
+* Degeneration into explanation (becomes text)
+* Missing invariants (unbounded interpretation)
+* Axis entanglement (loss of dimensionality)
+* Over-specification (becomes documentation)
+* Under-specification (cannot reconstruct meaning)
 
 ---
 
 ## Why this exists
 
-Modern AI systems can remember text.  
-They struggle to preserve **why** something matters.
+Modern systems can store and retrieve text.
 
-Sense-Capsules are designed to preserve:
-- invariants
-- decision boundaries
-- semantic direction
-- thinking continuity
+They struggle with:
+
+* preserving invariants
+* maintaining reasoning continuity
+* avoiding semantic drift
+
+Sense-Capsules preserve:
+
+* invariants
+* decision boundaries
+* semantic direction
 
 They allow reasoning to **resume**, not restart.
 
 ---
 
-## Authorship
-meta_origin:
-Igor ⊕ ChatGPT
-(concept authorship, not user identity)
+## Positioning
 
-This is a **concept**, not a product.  
-Fork it, reinterpret it, break it carefully.
+* “Topology of meaning”
+* “Executable semantic compression”
+* “3NF for reasoning”
+* “ACID for meaning integrity”
+
+---
+
+## Authorship
+
+meta_origin: Igor ⊕ ChatGPT
+(concept authorship, not user identity)
 
 ---
 
 ## Notes
 
-This is not about the author.  
-If it works — use it.  
+This is a concept, not a product.
+
+If it works — use it.
 If it doesn’t — ignore it.
 
-If you ever win Nobel's prize with it - you owe me a beer.
+If you ever win a Nobel Prize with it — you owe me a beer.
 
 
 If you want to leave a trace:
