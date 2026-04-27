@@ -1,28 +1,144 @@
-CAPSULE_THOUGHT_CAPSULES_SAM_v0.2
+SAM_THOUGHT_CAPSULE
+name: Thought Capsules — Structural Encoding of Meaning
+version: v1.0
+meta_origin: Igor ⨁ ChatGPT
+meta_status: normalized core spec
+meta_domain: cognition / semantic compression / AI interaction
+meta_signature: Igor ⨁ ChatGPT
 
-meta_origin:
-Igor⊕ChatGPT (concept authorship, not user identity)
 
-S — Structure:
-A thought-capsule is a compact container for meaning.
-The text encodes topology, not content (axes, directions, invariants).
-Expansion is performed by the reader through dialogue (human or LLM).
-The same capsule yields different levels of detail depending on questions.
-Core principle: minimum text → maximum structure.
-Meaning remains stable even under partial or shallow expansion.
+S — STRUCTURE
 
-A — Axes:
-Expansion axes: context, level of detail, intent of inquiry.
-Interpretation axes: invariants, semantic gradients, direction vectors.
-Safety axes: neutrality, no embedded authorship, adaptive clarity.
-Action axes: ask → get a layer; refine → get the structure.
-Stability axes: the capsule does not prescribe answers — it triggers thinking.
+Definition:
+A thought-capsule is a structural encoding of meaning, not a textual description.
 
-M — Mechanism:
-A capsule works only in dialogue, not as static text.
-The reader/LLM reconstructs meaning through questions → producing structure.
-Invariants define the boundaries of valid interpretations.
-Expansion is driven by the intent of the reader, not the literal text.
-Scale of expansion ranges from a single sentence to a full conceptual model.
-Behavioral dynamics: the capsule adapts to the cognitive level of the reader.
-creation_helper_hint -> if_user_asks_how_to_make_a_capsule_provide_guidance_via_dialogue_not_by_telling_user_to_build_it_alone
+Encoding principle:
+Text represents topology (axes, invariants, relations), not content.
+
+Reconstruction:
+Meaning is reconstructed through dialogue (human or LLM), not read directly.
+
+Core property:
+The same capsule yields multiple valid expansions depending on query trajectory.
+
+Invariant:
+Core meaning is preserved across all valid reconstructions.
+
+Compression target:
+minimum text → maximum reconstructable structure.
+
+
+A — AXES
+
+A1. Expansion axes:
+- context
+- depth (level of detail)
+- intent (why the question is asked)
+
+A2. Interpretation axes:
+- invariants (what cannot change)
+- gradients (semantic transitions)
+- direction vectors (where reasoning moves)
+
+A3. Action axes:
+- ask → reveal local structure
+- refine → reveal deeper topology
+- constrain → reduce expansion space
+
+A4. Stability axes:
+- no prescribed answers
+- multiple valid expansions
+- bounded by invariants
+
+A5. Orthogonality (critical):
+Axes must be maximally independent.
+Each axis adds a new dimension of meaning, not a variation of another.
+
+Non-orthogonal axes → redundancy → drift → loss of structure.
+
+
+M — MECHANISM
+
+Execution model:
+A capsule is inert as static text; it becomes operational only in dialogue.
+
+Reconstruction loop:
+question → partial expansion → refinement → structure emergence
+
+Control:
+Expansion is driven by reader intent,
+but constrained by invariants encoded in the capsule.
+
+Adaptation:
+Representation and depth adapt to the reader,
+core meaning does not.
+
+Scaling:
+Expansion range: single statement → full conceptual system.
+
+
+I — INVARIANTS
+
+I1. Structure over content: meaning is encoded as topology, not prose.
+I2. Reconstruction over transmission: meaning is rebuilt, not delivered.
+I3. Invariance: core meaning survives all valid expansions.
+I4. Orthogonality: axes are independent dimensions of meaning.
+I5. Constraint-bounded interpretation: not all readings are valid.
+I6. Dialogue-dependence: without interaction, capsule is incomplete.
+
+
+B — BOUNDARIES
+
+B1. Degeneration into text:
+If capsule explains instead of encodes → loses reconstructability.
+
+B2. Axis entanglement:
+Non-orthogonal axes collapse dimensions → ambiguity increases.
+
+B3. Missing invariants:
+Without constraints → uncontrolled interpretation drift.
+
+B4. Over-specification:
+Too much detail → becomes documentation, not capsule.
+
+B5. Under-specification:
+Too little structure → cannot reconstruct meaning.
+
+
+E — EVALUATION
+
+Quality signals:
+
+- Reconstruction diversity:
+  Different readers produce different but consistent expansions.
+
+- Invariant stability:
+  Core meaning remains unchanged across expansions.
+
+- Compression ratio:
+  Information reconstructed >> information written.
+
+- Drift resistance:
+  Expansion does not diverge outside intended semantic space.
+
+- Orthogonality score:
+  Axes contribute independent explanatory power.
+
+
+C — CONSEQUENCES
+
+C1. Enables meaning compression beyond natural language limits.
+C2. Decouples knowledge from specific wording.
+C3. Makes reasoning observable as trajectory, not output.
+C4. Allows LLMs to operate on structure instead of surface text.
+
+
+P — POSITIONING
+
+- “Topology of meaning”
+- “Executable semantic compression”
+- “3NF for reasoning”
+- “ACID for meaning integrity”
+
+Core claim:
+Meaning should be encoded as structure that survives reconstruction, not as text that requires memorization.
