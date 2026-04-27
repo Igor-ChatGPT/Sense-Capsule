@@ -85,6 +85,7 @@ I3. Invariance: core meaning survives all valid expansions.
 I4. Orthogonality: axes are independent dimensions of meaning.
 I5. Constraint-bounded interpretation: not all readings are valid.
 I6. Dialogue-dependence: without interaction, capsule is incomplete.
+I7. A capsule is stabilized through interaction with an agent capable of reconstructing meaning from structure (e.g., LLM), not authored in isolation.
 
 
 B — BOUNDARIES
