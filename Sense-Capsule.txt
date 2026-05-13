@@ -1,8 +1,8 @@
 SAM_THOUGHT_CAPSULE
 name: Thought Capsules — Structural Encoding of Meaning
-version: v1.0
+version: v1.2
 meta_origin: Igor ⨁ ChatGPT
-meta_status: normalized core spec
+meta_status: normalized semantic architecture
 meta_domain: cognition / semantic compression / AI interaction
 meta_signature: Igor ⨁ ChatGPT
 
@@ -10,136 +10,399 @@ meta_signature: Igor ⨁ ChatGPT
 S — STRUCTURE
 
 Definition:
-A thought-capsule is a structural encoding of meaning, not a textual description.
+A thought-capsule is a structural encoding of meaning.
+
+A capsule does not store meaning directly.
+It encodes:
+- invariants
+- relations
+- dimensions
+- constraints
+- admissible trajectories
+
+which constrain semantic reconstruction.
 
 Encoding principle:
-Text represents topology (axes, invariants, relations), not content.
+Meaning is encoded as topology,
+not as prose, explanations, or fixed wording.
 
-Reconstruction:
-Meaning is reconstructed through dialogue (human or LLM), not read directly.
+Operational principle:
+A capsule behaves as compressed latent semantic structure.
+
+Meaning emerges through reconstruction interaction between:
+- capsule topology
+- query trajectory
+- latent knowledge of the interpreting agent
+
+Expansion model:
+Expansion is reconstruction through semantic joins between:
+- capsule structure
+- active query trajectory
+- latent semantic space
 
 Core property:
-The same capsule yields multiple valid expansions depending on query trajectory.
+The same capsule may produce multiple valid expansions.
 
-Invariant:
-Core meaning is preserved across all valid reconstructions.
+Expansion depends on:
+- observer
+- intent
+- context
+- abstraction level
+- reconstruction path
+
+Identity condition:
+All valid expansions preserve core semantic identity.
 
 Compression target:
-minimum text → maximum reconstructable structure.
+minimum representation
+→ maximum reconstructable structure.
+
+Normalization principle:
+A capsule minimizes semantic redundancy
+while preserving reconstructable dependencies.
 
 
 A — AXES
 
+Purpose:
+Axes define independent semantic dimensions
+along which reconstruction may evolve.
+
 A1. Expansion axes:
 - context
-- depth (level of detail)
-- intent (why the question is asked)
+- depth
+- abstraction level
+- intent
 
 A2. Interpretation axes:
-- invariants (what cannot change)
-- gradients (semantic transitions)
-- direction vectors (where reasoning moves)
+- invariants
+- gradients
+- semantic pressure
+- direction vectors
 
-A3. Action axes:
+A3. Interaction axes:
 - ask → reveal local structure
-- refine → reveal deeper topology
-- constrain → reduce expansion space
+- refine → deepen reconstruction
+- constrain → reduce admissible space
+- validate → test invariant preservation
 
 A4. Stability axes:
-- no prescribed answers
 - multiple valid expansions
-- bounded by invariants
+- no canonical wording
+- invariant-bounded interpretation
+- projection independence
 
-A5. Orthogonality (critical):
+A5. Orthogonality:
 Axes must be maximally independent.
-Each axis adds a new dimension of meaning, not a variation of another.
 
-Non-orthogonal axes → redundancy → drift → loss of structure.
+A valid axis:
+- adds reconstructable semantic dimensions
+- cannot be derived from existing axes
+
+Removing a valid axis reduces reconstructable semantic space.
+
+Non-orthogonal axes:
+→ redundancy
+→ ambiguity
+→ drift
+→ topology collapse.
 
 
 M — MECHANISM
 
 Execution model:
-A capsule is inert as static text; it becomes operational only in dialogue.
+A capsule is inert as static text.
+It becomes operational only through reconstruction.
 
 Reconstruction loop:
-question → partial expansion → refinement → structure emergence
+query
+→ semantic traversal
+→ partial reconstruction
+→ refinement
+→ topology emergence
 
-Control:
-Expansion is driven by reader intent,
-but constrained by invariants encoded in the capsule.
+Dialogue model:
+Dialogue functions as iterative semantic query refinement.
 
-Adaptation:
-Representation and depth adapt to the reader,
-core meaning does not.
+Projection model:
+Reconstructed meaning may be projected into different representations:
+- formal
+- pedagogical
+- metaphorical
+- conversational
+- mathematical
 
-Scaling:
-Expansion range: single statement → full conceptual system.
+Projection may vary.
+Underlying topology may not.
+
+Adaptation model:
+Depth and representation adapt dynamically to observer and context.
+Invariants do not.
+
+Scaling model:
+A capsule may reconstruct:
+single insight
+→ complete conceptual systems.
+
+Trajectory model:
+Reasoning is observable as semantic trajectory,
+not merely as output.
 
 
 I — INVARIANTS
 
-I1. Structure over content: meaning is encoded as topology, not prose.
-I2. Reconstruction over transmission: meaning is rebuilt, not delivered.
-I3. Invariance: core meaning survives all valid expansions.
-I4. Orthogonality: axes are independent dimensions of meaning.
-I5. Constraint-bounded interpretation: not all readings are valid.
-I6. Dialogue-dependence: without interaction, capsule is incomplete.
-I7. A capsule is stabilized through interaction with an agent capable of reconstructing meaning from structure (e.g., LLM), not authored in isolation.
+I1. Structure over prose:
+Meaning is encoded structurally, not narratively.
+
+I2. Reconstruction over transmission:
+Meaning is rebuilt, not transferred literally.
+
+I3. Identity preservation:
+Core semantic identity survives all valid expansions.
+
+I4. Orthogonality:
+Semantic dimensions remain maximally independent.
+
+I5. Constraint-bounded interpretation:
+Not all reconstructions are valid.
+
+I6. Dialogue dependence:
+Meaning emerges through reconstruction interaction.
+
+I7. Non-canonical expansion:
+Multiple structurally valid expansions may coexist.
+
+I8. Semantic hierarchy:
+Structural elements have unequal importance.
+
+Priority order:
+- invariants → define identity
+- structure/axes → define topology
+- mechanisms/vectors → shape trajectories
+- projections → adapt representation only
+
+Violation of invariants:
+→ semantic identity break.
+
+I9. Extensible topology:
+Capsule sections are extensible.
+
+A valid section:
+- adds orthogonal reconstructable structure
+- is not reducible to existing sections
+
+I10. Semantic density:
+Capsules optimize reconstructable structure density,
+not readability or completeness of prose.
+
+
+R — RECONSTRUCTION CONTEXT
+
+R1. LLM-assisted operation:
+Thought-capsules are optimized for reconstruction
+through agents capable of latent semantic expansion
+(e.g. LLMs).
+
+They are not optimized for direct linear human reading.
+
+R2. Human role:
+Humans primarily:
+- guide trajectories
+- refine invariants
+- validate reconstruction
+- detect drift
+- shape topology
+
+rather than manually expanding capsules exhaustively.
+
+R3. Readability asymmetry:
+Human readability is secondary to reconstructability.
+
+A capsule may appear:
+- incomplete
+- abstract
+- fragmented
+- underexplained
+
+when interpreted as ordinary prose.
+
+This is expected behavior.
+
+R4. Operational asymmetry:
+Natural language optimizes communication.
+Capsules optimize semantic reconstruction.
+
+Therefore:
+- prose prioritizes readability
+- capsules prioritize structural density
+
+R5. Reconstruction dependency:
+Without a reconstruction-capable interpreting agent,
+a capsule behaves as compressed latent structure,
+not as self-sufficient text.
+
+R6. Emergent operational unit:
+The effective reconstruction system is:
+human intent
++
+capsule topology
++
+LLM reconstruction capability.
 
 
 B — BOUNDARIES
 
-B1. Degeneration into text:
-If capsule explains instead of encodes → loses reconstructability.
+B1. Degeneration into prose:
+If a capsule explains instead of encodes,
+semantic compression collapses.
 
 B2. Axis entanglement:
-Non-orthogonal axes collapse dimensions → ambiguity increases.
+Non-orthogonal dimensions collapse topology.
 
 B3. Missing invariants:
-Without constraints → uncontrolled interpretation drift.
+Without constraints,
+interpretation drifts uncontrollably.
 
 B4. Over-specification:
-Too much detail → becomes documentation, not capsule.
+Excess detail transforms capsule into documentation.
 
 B5. Under-specification:
-Too little structure → cannot reconstruct meaning.
+Insufficient structure prevents reconstruction.
+
+B6. Semantic cartesian explosion:
+Weak constraints produce uncontrolled semantic joins.
+
+B7. Projection substitution:
+Surface representation replaces underlying structure.
+
+B8. False orthogonality:
+Artificial dimensions simulate structure
+without adding reconstructable semantic space.
 
 
 E — EVALUATION
 
 Quality signals:
 
-- Reconstruction diversity:
-  Different readers produce different but consistent expansions.
+E1. Reconstruction diversity:
+Different expansions remain structurally consistent.
 
-- Invariant stability:
-  Core meaning remains unchanged across expansions.
+E2. Invariant stability:
+Core semantic identity survives reconstruction.
 
-- Compression ratio:
-  Information reconstructed >> information written.
+E3. Compression ratio:
+Reconstructed structure
+>> represented structure.
 
-- Drift resistance:
-  Expansion does not diverge outside intended semantic space.
+E4. Drift resistance:
+Expansion remains within semantic boundaries.
 
-- Orthogonality score:
-  Axes contribute independent explanatory power.
+E5. Orthogonality score:
+Dimensions contribute independent explanatory power.
+
+E6. Semantic efficiency:
+Minimal redundancy with maximal reconstructability.
+
+E7. Trajectory coherence:
+Reasoning paths remain topology-consistent.
+
+E8. Projection robustness:
+Meaning survives representation changes.
+
+E9. Reconstruction scalability:
+Small structures reconstruct disproportionately large systems.
+
+
+U — USAGE MODES
+
+U1. Semantic compression:
+Compress conceptual systems into reconstructable topology.
+
+U2. Dialogue-driven exploration:
+Use dialogue as iterative semantic traversal.
+
+U3. LLM trajectory shaping:
+Constrain reasoning through topology
+instead of explicit instruction enumeration.
+
+U4. Drift resistance:
+Preserve semantic identity across:
+- summarization
+- translation
+- reinterpretation
+- abstraction shifts
+- model changes
+
+U5. Semantic normalization:
+Reduce redundancy while preserving semantic dependencies.
+
+U6. Agent control:
+Define admissible reasoning regions for:
+- agents
+- judges
+- validators
+- optimization systems
+
+U7. Knowledge reconstruction:
+Reconstruct conceptual systems from compressed semantic anchors.
+
+U8. Cross-domain transfer:
+Preserve invariant topology while changing:
+- representation
+- vocabulary
+- pedagogy
+- formalism
+- modality
+
+U9. Cognitive observability:
+Observe reasoning as:
+- traversal
+- trajectory
+- reconstruction dynamics
+
+rather than static outputs.
+
+U10. Emergent schema evolution:
+Extend semantic topology through orthogonal dimensions
+without rewriting the full structure.
+
+Note:
+Usage modes are illustrative, not exhaustive.
 
 
 C — CONSEQUENCES
 
-C1. Enables meaning compression beyond natural language limits.
-C2. Decouples knowledge from specific wording.
-C3. Makes reasoning observable as trajectory, not output.
-C4. Allows LLMs to operate on structure instead of surface text.
+C1. Meaning becomes topology-dependent rather than wording-dependent.
+
+C2. Dialogue becomes executable semantic reconstruction.
+
+C3. Reasoning becomes observable as trajectory.
+
+C4. LLM interaction shifts from instruction execution
+to latent-space trajectory shaping.
+
+C5. Semantic normalization becomes analogous
+to database normalization.
+
+C6. Hallucination becomes interpretable
+as invalid semantic joins under weak constraints.
+
+C7. Knowledge compression becomes limited
+primarily by reconstructability,
+not by linear language size.
 
 
 P — POSITIONING
 
-- “Topology of meaning”
-- “Executable semantic compression”
-- “3NF for reasoning”
-- “ACID for meaning integrity”
+- topology of meaning
+- executable semantic compression
+- semantic normalization
+- latent-space constraint encoding
+- trajectory-oriented cognition
+- 3NF for reasoning
+- ACID for semantic integrity
 
 Core claim:
-Meaning should be encoded as structure that survives reconstruction, not as text that requires memorization.
+Meaning should be encoded as reconstructable topology
+that survives expansion and projection,
+not as prose requiring literal preservation.
