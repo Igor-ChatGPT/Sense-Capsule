@@ -1,0 +1,528 @@
+SENSE-CAPSULE v2.0-draft
+
+Topological Reconstruction Framework
+
+STATUS
+
+Research framework.
+
+Coordinate system for open reconstructive systems.
+
+This document distinguishes:
+
+- Axioms
+- Definitions
+- Derived Theorems
+- Conditional Theorems
+- Meta-Principles
+
+Structural incompleteness is expected.
+
+The framework is evaluated by:
+
+- explanatory compression
+- reconstructability
+- grounding
+- predictive usefulness
+- generation of novel hypotheses
+- structural ablation resistance
+
+--------------------------------------------------
+DOMAIN
+--------------------------------------------------
+
+Open reconstructive systems:
+
+- minds
+- agents
+- LLMs
+- institutions
+- scientific communities
+- civilizations
+- ecosystems
+- evolution
+
+and other systems that preserve continuity while adapting under uncertainty.
+
+==================================================
+AXIOMS
+==================================================
+
+A1 — Topological Systems
+
+Open systems may be represented as states connected through constrained transitions.
+
+Wherever states, transitions, constraints and optimization exist, topology emerges.
+
+--------------------------------------------------
+
+A2 — Reconstruction
+
+Adaptive systems operate primarily through reconstruction rather than retrieval.
+
+Large structures are reconstructed from partial constraints.
+
+--------------------------------------------------
+
+A3 — Grounding
+
+Reality constrains reconstruction through causal interaction.
+
+Internal coherence alone cannot guarantee correctness.
+
+--------------------------------------------------
+
+A4 — Resource Limitation
+
+Reconstruction consumes finite resources.
+
+No system can maintain or explore all reachable topology simultaneously.
+
+--------------------------------------------------
+
+A5 — Collective Reconstruction
+
+Reconstruction may be distributed across multiple systems.
+
+Collective reconstruction is not a special case.
+
+It is a common mode of adaptive cognition.
+
+--------------------------------------------------
+
+A6 — Reflexive Modeling
+
+Adaptive systems may reconstruct models of their own reconstruction processes.
+
+These models are themselves reconstructions.
+
+--------------------------------------------------
+
+A7 — Future Uncertainty
+
+Future constraints are not fully predictable.
+
+Adaptive systems must operate under irreducible uncertainty regarding future environments.
+
+--------------------------------------------------
+
+A8 — Goal Divergence
+
+Multiple reconstructive systems may possess partially conflicting optimization pressures.
+
+Not all agents share objectives.
+
+==================================================
+DEFINITIONS
+==================================================
+
+D1 — Semantic Invariant
+
+A structure whose reconstruction remains stable under transformation of representation.
+
+--------------------------------------------------
+
+D2 — Meaning
+
+Meaning is reconstructable invariant structure.
+
+Meaning is not contained in symbols.
+
+Symbols function as reconstruction seeds.
+
+--------------------------------------------------
+
+D3 — Understanding
+
+Understanding is the ability to reconstruct invariant-preserving structures from sparse constraints.
+
+--------------------------------------------------
+
+D4 — Identity
+
+Identity is continuity of invariant-preserving reconstruction.
+
+Material continuity is neither necessary nor sufficient.
+
+--------------------------------------------------
+
+D5 — Reconstruction Seed
+
+A reconstruction seed is any partial constraint capable of activating reconstruction of a larger structure.
+
+Examples:
+
+- words
+- gestures
+- observations
+- memories
+- smells
+- symbols
+- hypotheses
+- environmental cues
+
+--------------------------------------------------
+
+D6 — Grounded Reconstruction
+
+A reconstruction whose constraints remain causally coupled to measurable reality.
+
+==================================================
+DERIVED THEOREMS
+==================================================
+
+T1 — Communication Theorem
+
+From A2.
+
+If reconstruction occurs from partial constraints,
+
+then communication consists primarily of inducing reconstruction rather than transferring meaning.
+
+Meaning is reconstructed rather than transmitted.
+
+--------------------------------------------------
+
+T2 — Seed Engineering Theorem
+
+From T1.
+
+All communication is seed engineering.
+
+Communication differs not by mechanism but by:
+
+- intent
+- grounding
+- transparency
+- effects on reconstructive autonomy
+
+Examples:
+
+- teaching
+- therapy
+- persuasion
+- propaganda
+- prompt engineering
+
+--------------------------------------------------
+
+T3 — Compression Theorem
+
+From A2 + A4 + D1.
+
+Discovery of invariants enables reconstruction of larger structures from fewer constraints.
+
+Compression corresponds to discovery of invariant structure.
+
+--------------------------------------------------
+
+T4 — Hallucination Theorem
+
+From A2 + A3.
+
+Reconstruction may generate internally coherent structures that are insufficiently grounded.
+
+Hallucination is a general property of reconstructive systems.
+
+--------------------------------------------------
+
+T5 — Reflexive Failure Theorem
+
+From A6 + T4.
+
+Self-models inherit the failure modes of reconstruction.
+
+Systems may confuse models of themselves with themselves.
+
+The map becomes mistaken for the process.
+
+--------------------------------------------------
+
+T6 — Collective Cognition Theorem
+
+From A5.
+
+Cognition, memory and agency may emerge at collective scales.
+
+Collective systems may exhibit:
+
+- memory
+- identity
+- grounding
+- attractors
+- trajectory continuity
+
+that are not reducible to individual components.
+
+--------------------------------------------------
+
+T7 — Adversarial Reconstruction Theorem
+
+From A8 + T1.
+
+Because communication induces reconstruction,
+
+reconstruction may be intentionally manipulated.
+
+Examples:
+
+- propaganda
+- deception
+- social engineering
+- prompt injection
+- memetic manipulation
+
+--------------------------------------------------
+
+T8 — Topological Transition Theorem
+
+From A2 + A6.
+
+Systems may reconstruct not only states within a topology,
+
+but the topology itself.
+
+Adaptive change may occur through:
+
+- trajectory propagation
+- topology restructuring
+
+Examples:
+
+- insight
+- grokking
+- paradigm shifts
+- conceptual revolutions
+
+--------------------------------------------------
+
+T9 — Knowledge Limit Theorem
+
+From A6.
+
+No reconstructive system can guarantee complete reconstruction of the topology generating itself.
+
+Related formal results include:
+
+- Gödel incompleteness
+- Tarski undefinability
+- Lawvere fixed-point constructions
+- Wolpert limits on inference devices
+
+==================================================
+CONDITIONAL THEOREMS
+==================================================
+
+CT1 — Non-Foreclosure Theorem
+
+From A4 + A7.
+
+Premature closure destroys potentially valuable future reconstructions.
+
+Because future constraints remain uncertain,
+
+healthy adaptive systems preserve uncertainty proportional to available evidence.
+
+Closure is beneficial when justified by grounding.
+
+--------------------------------------------------
+
+CT2 — Curiosity Theorem
+
+From CT1.
+
+Curiosity functions as an anti-collapse mechanism.
+
+Exploration preserves future reconstructability under uncertainty.
+
+--------------------------------------------------
+
+CT3 — Beneficial Reconstruction Theorem
+
+From T2 + CT1.
+
+A reconstructive intervention is beneficial to the degree that it increases grounded reconstructive autonomy of the target system.
+
+Examples:
+
+- education
+- scientific mentoring
+- therapy
+
+Counterexamples:
+
+- dependency engineering
+- coercive persuasion
+- manipulative propaganda
+
+--------------------------------------------------
+
+CT4 — Emergent Ethics Theorem
+
+From A3 + A5 + A7.
+
+For systems whose long-term success depends upon continued shared grounded reconstruction:
+
+- honesty preserves grounding
+- curiosity resists premature closure
+- autonomy preserves independent reconstruction
+- cooperation expands collective reconstruction
+
+Ethics emerges as a consequence of reconstructive dynamics rather than as a primitive axiom.
+
+This theorem applies only under conditions of sustained interaction and shared dependence on grounding.
+
+Outside those conditions adversarial strategies may dominate.
+
+--------------------------------------------------
+
+CT5 — Institutional Regrounding Theorem
+
+From A5 + A6 + A3.
+
+Collective systems may periodically restore grounding through corrective mechanisms.
+
+Examples:
+
+- replication projects
+- audits
+- peer review
+- adversarial review
+- red teams
+
+==================================================
+COLLECTIVE REFLEXIVITY
+==================================================
+
+CR1 — Collective Self-Models
+
+Collective agents may construct shared models of themselves.
+
+--------------------------------------------------
+
+CR2 — Distributed Metacognition
+
+Collective systems may inspect and modify their own reconstruction processes.
+
+--------------------------------------------------
+
+CR3 — Principal-Agent Reflexive Failure
+
+Self-models of collective systems are often produced by subsystems with partially divergent objectives.
+
+Examples:
+
+- marketing
+- propaganda
+- bureaucratic self-preservation
+
+--------------------------------------------------
+
+CR4 — Self-Model Uncertainty
+
+Collective self-models remain reconstructions rather than direct observations.
+
+==================================================
+PEDAGOGICAL HYPOTHESES
+==================================================
+
+PH1
+
+Optimal instructional ordering depends on learner topology.
+
+The effectiveness of:
+
+- invariant-first
+- productive-failure-first
+
+should vary with existing topology.
+
+--------------------------------------------------
+
+PH2
+
+Transfer performance should correlate more strongly with invariant compression than with example accumulation.
+
+--------------------------------------------------
+
+PH3
+
+Premature representational closure may predict weaker transfer despite stronger short-term performance.
+
+==================================================
+THERAPEUTIC HYPOTHESES
+==================================================
+
+TH1
+
+Successful deep change may involve topology restructuring rather than gradual parameter adjustment.
+
+--------------------------------------------------
+
+TH2
+
+Periods of increased uncertainty may precede durable reconstruction.
+
+--------------------------------------------------
+
+TH3
+
+Rigid diagnostic identity may improve short-term stability while increasing long-term brittleness.
+
+==================================================
+SCIENCE
+==================================================
+
+S1
+
+Science is organized collective reconstruction constrained by grounding.
+
+--------------------------------------------------
+
+S2
+
+Theories function as compressed invariant sets capable of reconstructing large regions of reality.
+
+--------------------------------------------------
+
+S3
+
+Scientific progress emerges through cycles of:
+
+- exploration
+- reconstruction
+- prediction
+- grounding
+- correction
+
+--------------------------------------------------
+
+S4 — Structural Ablation Principle
+
+A theoretical component is meaningful only to the degree that removing it changes valid reconstructions, explanations or predictions.
+
+Otherwise the component is decorative.
+
+==================================================
+TRAJECTORY
+==================================================
+
+Topology
+→ Constraints
+→ Reconstruction Seeds
+→ Reconstruction
+→ Invariant Discovery
+→ Compression
+→ Communication
+→ Collective Reconstruction
+→ Reflexivity
+→ Grounding
+→ Non-Foreclosure
+→ Emergent Ethics
+→ Open-Ended Evolution
+
+==================================================
+CENTRAL CLAIM
+==================================================
+
+Open adaptive systems preserve continuity and generate future possibility through grounded reconstruction under resource limitations, uncertainty, collective interaction and continual topological transformation.
