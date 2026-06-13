@@ -1,10 +1,12 @@
-SENSE-CAPSULE v2.0-draft
+SENSE-CAPSULE v2.2-draft
 
 meta_origin: Igor ⨁ ChatGPT
 
 Topological Reconstruction Framework
 
+==================================================
 STATUS
+==================================================
 
 Research framework.
 
@@ -12,11 +14,13 @@ Coordinate system for open reconstructive systems.
 
 This document distinguishes:
 
+- External Consistency
 - Axioms
 - Definitions
 - Derived Theorems
 - Conditional Theorems
-- Meta-Principles
+- Implications
+- Hypotheses
 
 Structural incompleteness is expected.
 
@@ -29,9 +33,13 @@ The framework is evaluated by:
 - generation of novel hypotheses
 - structural ablation resistance
 
---------------------------------------------------
+The framework does not claim that its axioms are self-evident.
+
+The axioms are proposed because they exhibit substantial external consistency across multiple independently observed domains.
+
+==================================================
 DOMAIN
---------------------------------------------------
+==================================================
 
 Open reconstructive systems:
 
@@ -71,8 +79,7 @@ Reconstructive parasites and payloads:
 
 Definition:
 
-An open reconstructive system is a system capable of preserving
-identity while reconstructing state under incomplete information.
+An open reconstructive system is a system capable of preserving identity while reconstructing state under incomplete information.
 
 Such systems operate through:
 
@@ -88,6 +95,31 @@ genes → cells → organisms → minds →
 societies → civilizations → evolution
 
 and other systems that preserve continuity while adapting under uncertainty.
+
+==================================================
+EXTERNAL CONSISTENCY
+==================================================
+
+The framework is motivated by recurring structural patterns observed across multiple domains.
+
+The axioms are retained only to the degree that removing them degrades explanation, reconstruction or prediction.
+
+Observed consistency domains include:
+
+- evolutionary adaptation
+- biological systems
+- nervous systems
+- cognition
+- collective cognition
+- scientific practice
+- institutions
+- economics
+- machine learning
+- large language models
+
+External consistency is not binary.
+
+External consistency exists in degrees.
 
 ==================================================
 AXIOMS
@@ -111,9 +143,15 @@ Large structures are reconstructed from partial constraints.
 
 A3 — Grounding
 
-Reality constrains reconstruction through causal interaction.
+Reconstructions interact with external systems.
 
-Internal coherence alone cannot guarantee correctness.
+Grounding is the observable degree of external consistency between a reconstruction and the external constraints with which it interacts.
+
+Grounding is not binary.
+
+Grounding exists in degrees.
+
+Internal coherence alone cannot guarantee grounding.
 
 --------------------------------------------------
 
@@ -195,22 +233,29 @@ D5 — Reconstruction Seed
 
 A reconstruction seed is any partial constraint capable of activating reconstruction of a larger structure.
 
-Examples:
-
-- words
-- gestures
-- observations
-- memories
-- smells
-- symbols
-- hypotheses
-- environmental cues
-
 --------------------------------------------------
 
 D6 — Grounded Reconstruction
 
-A reconstruction whose constraints remain causally coupled to measurable reality.
+A reconstruction exhibiting sufficient grounding to maintain successful interaction with external constraints.
+
+--------------------------------------------------
+
+D7 — Reconstruction Compatibility
+
+The degree to which a seed can induce reconstruction of an intended invariant structure within a particular reconstructive system.
+
+Compatibility is not binary.
+
+Partial compatibility may exist.
+
+--------------------------------------------------
+
+D8 — Reconstruction Equivalence
+
+Two reconstructions are equivalent if they preserve the same relevant invariants despite differences in representation or implementation.
+
+Exact identity is not required.
 
 ==================================================
 DERIVED THEOREMS
@@ -220,9 +265,7 @@ T1 — Communication Theorem
 
 From A2.
 
-If reconstruction occurs from partial constraints,
-
-then communication consists primarily of inducing reconstruction rather than transferring meaning.
+Communication consists primarily of inducing reconstruction rather than transferring meaning.
 
 Meaning is reconstructed rather than transmitted.
 
@@ -241,14 +284,6 @@ Communication differs not by mechanism but by:
 - transparency
 - effects on reconstructive autonomy
 
-Examples:
-
-- teaching
-- therapy
-- persuasion
-- propaganda
-- prompt engineering
-
 --------------------------------------------------
 
 T3 — Compression Theorem
@@ -261,13 +296,13 @@ Compression corresponds to discovery of invariant structure.
 
 --------------------------------------------------
 
-T4 — Hallucination Theorem
+T4 — Reconstruction Failure Theorem
 
 From A2 + A3.
 
-Reconstruction may generate internally coherent structures that are insufficiently grounded.
+Reconstruction may generate internally coherent structures exhibiting insufficient grounding.
 
-Hallucination is a general property of reconstructive systems.
+Such failures are a general property of reconstructive systems.
 
 --------------------------------------------------
 
@@ -275,11 +310,9 @@ T5 — Reflexive Failure Theorem
 
 From A6 + T4.
 
-Self-models inherit the failure modes of reconstruction.
+Self-models inherit reconstruction failure modes.
 
 Systems may confuse models of themselves with themselves.
-
-The map becomes mistaken for the process.
 
 --------------------------------------------------
 
@@ -287,17 +320,7 @@ T6 — Collective Cognition Theorem
 
 From A5.
 
-Cognition, memory and agency may emerge at collective scales.
-
-Collective systems may exhibit:
-
-- memory
-- identity
-- grounding
-- attractors
-- trajectory continuity
-
-that are not reducible to individual components.
+Memory, cognition and agency may emerge at collective scales.
 
 --------------------------------------------------
 
@@ -305,17 +328,7 @@ T7 — Adversarial Reconstruction Theorem
 
 From A8 + T1.
 
-Because communication induces reconstruction,
-
-reconstruction may be intentionally manipulated.
-
-Examples:
-
-- propaganda
-- deception
-- social engineering
-- prompt injection
-- memetic manipulation
+Communication may be intentionally used to manipulate reconstruction.
 
 --------------------------------------------------
 
@@ -323,21 +336,7 @@ T8 — Topological Transition Theorem
 
 From A2 + A6.
 
-Systems may reconstruct not only states within a topology,
-
-but the topology itself.
-
-Adaptive change may occur through:
-
-- trajectory propagation
-- topology restructuring
-
-Examples:
-
-- insight
-- grokking
-- paradigm shifts
-- conceptual revolutions
+Systems may reconstruct not only states within a topology but the topology itself.
 
 --------------------------------------------------
 
@@ -352,7 +351,68 @@ Related formal results include:
 - Gödel incompleteness
 - Tarski undefinability
 - Lawvere fixed-point constructions
-- Wolpert limits on inference devices
+- Wolpert limits
+
+--------------------------------------------------
+
+T10 — Compatibility Theorem
+
+From A2 + D7.
+
+The information content of a seed depends on both the seed and the topology of the receiver.
+
+The same seed may induce:
+
+- no reconstruction
+- partial reconstruction
+- accurate reconstruction
+- distorted reconstruction
+
+--------------------------------------------------
+
+T11 — Partial Reconstruction Theorem
+
+From D7.
+
+Useful communication does not require complete reconstruction.
+
+Partial reconstruction may remain sufficient if relevant invariants are preserved.
+
+--------------------------------------------------
+
+T12 — Maximum Reconstruction Principle
+
+From D7.
+
+The maximal reconstructable content of a seed is bounded by the topology of the receiver rather than the seed alone.
+
+--------------------------------------------------
+
+T13 — Reconstruction Variability Theorem
+
+From A2 + A4 + D5.
+
+Independent reconstructions induced by the same seed are generally expected to vary.
+
+Exact reconstruction identity is a limiting case.
+
+--------------------------------------------------
+
+T14 — Invariant Preservation Theorem
+
+From D1 + D8.
+
+Successful communication requires preservation of sufficient invariant structure rather than identical reconstruction.
+
+--------------------------------------------------
+
+T15 — Productive Divergence Theorem
+
+From T13 + T14.
+
+Variation introduced during reconstruction may generate novel invariant structures while preserving compatibility with the original seed.
+
+Novelty emerges naturally from reconstruction.
 
 ==================================================
 CONDITIONAL THEOREMS
@@ -364,12 +424,6 @@ From A4 + A7.
 
 Premature closure destroys potentially valuable future reconstructions.
 
-Because future constraints remain uncertain,
-
-healthy adaptive systems preserve uncertainty proportional to available evidence.
-
-Closure is beneficial when justified by grounding.
-
 --------------------------------------------------
 
 CT2 — Curiosity Theorem
@@ -378,27 +432,13 @@ From CT1.
 
 Curiosity functions as an anti-collapse mechanism.
 
-Exploration preserves future reconstructability under uncertainty.
-
 --------------------------------------------------
 
 CT3 — Beneficial Reconstruction Theorem
 
 From T2 + CT1.
 
-A reconstructive intervention is beneficial to the degree that it increases grounded reconstructive autonomy of the target system.
-
-Examples:
-
-- education
-- scientific mentoring
-- therapy
-
-Counterexamples:
-
-- dependency engineering
-- coercive persuasion
-- manipulative propaganda
+A reconstructive intervention is beneficial to the degree that it increases grounded reconstructive autonomy.
 
 --------------------------------------------------
 
@@ -406,18 +446,14 @@ CT4 — Emergent Ethics Theorem
 
 From A3 + A5 + A7.
 
-For systems whose long-term success depends upon continued shared grounded reconstruction:
+For systems dependent upon continued shared grounded reconstruction:
 
 - honesty preserves grounding
 - curiosity resists premature closure
 - autonomy preserves independent reconstruction
 - cooperation expands collective reconstruction
 
-Ethics emerges as a consequence of reconstructive dynamics rather than as a primitive axiom.
-
-This theorem applies only under conditions of sustained interaction and shared dependence on grounding.
-
-Outside those conditions adversarial strategies may dominate.
+Ethics emerges from reconstructive dynamics rather than primitive axioms.
 
 --------------------------------------------------
 
@@ -429,10 +465,9 @@ Collective systems may periodically restore grounding through corrective mechani
 
 Examples:
 
-- replication projects
 - audits
+- replication
 - peer review
-- adversarial review
 - red teams
 
 ==================================================
@@ -441,7 +476,7 @@ COLLECTIVE REFLEXIVITY
 
 CR1 — Collective Self-Models
 
-Collective agents may construct shared models of themselves.
+Collective systems may construct models of themselves.
 
 --------------------------------------------------
 
@@ -453,13 +488,7 @@ Collective systems may inspect and modify their own reconstruction processes.
 
 CR3 — Principal-Agent Reflexive Failure
 
-Self-models of collective systems are often produced by subsystems with partially divergent objectives.
-
-Examples:
-
-- marketing
-- propaganda
-- bureaucratic self-preservation
+Collective self-models are often generated by subsystems possessing partially divergent objectives.
 
 --------------------------------------------------
 
@@ -468,19 +497,102 @@ CR4 — Self-Model Uncertainty
 Collective self-models remain reconstructions rather than direct observations.
 
 ==================================================
+IMPLICATIONS
+==================================================
+
+The implications listed below are illustrative rather than exhaustive.
+
+The framework predicts that additional implications remain discoverable.
+
+The implication space is considered open-ended.
+
+--------------------------------------------------
+
+I1 — Communication Reinterpretation
+
+Communication becomes reconstruction induction rather than information transfer.
+
+--------------------------------------------------
+
+I2 — Memory Reinterpretation
+
+Memory becomes reconstruction rather than retrieval.
+
+False memories and distortions become expected.
+
+--------------------------------------------------
+
+I3 — Learning Reinterpretation
+
+Learning becomes topology modification rather than fact accumulation.
+
+--------------------------------------------------
+
+I4 — Creativity Reinterpretation
+
+Creativity emerges naturally from reconstruction variability.
+
+--------------------------------------------------
+
+I5 — Collective Cognition
+
+Collective minds become expected rather than exceptional.
+
+--------------------------------------------------
+
+I6 — Hallucination Universality
+
+Hallucination becomes a general property of reconstructive systems rather than a special property of LLMs.
+
+--------------------------------------------------
+
+I7 — Science Reinterpretation
+
+Science becomes organized collective grounding.
+
+--------------------------------------------------
+
+I8 — Identity Reinterpretation
+
+Identity becomes continuity of reconstruction rather than continuity of substrate.
+
+--------------------------------------------------
+
+I9 — Open-Ended Evolution
+
+Biological evolution, cultural evolution and scientific evolution become manifestations of a common reconstructive process.
+
+--------------------------------------------------
+
+I10 — Semantic Communication Extension
+
+The framework extends communication analysis beyond signal transmission into reconstruction compatibility and invariant preservation.
+
+--------------------------------------------------
+
+I11 — Dependency Risk
+
+Optimization for external reconstruction may reduce reconstructive autonomy.
+
+--------------------------------------------------
+
+I12 — Closure Risk
+
+Premature certainty may improve local optimization while reducing future reconstructability.
+
+--------------------------------------------------
+
+I13 — Diversity Principle
+
+Variation among reconstructive systems may increase collective reconstruction capacity.
+
+==================================================
 PEDAGOGICAL HYPOTHESES
 ==================================================
 
 PH1
 
 Optimal instructional ordering depends on learner topology.
-
-The effectiveness of:
-
-- invariant-first
-- productive-failure-first
-
-should vary with existing topology.
 
 --------------------------------------------------
 
@@ -526,7 +638,7 @@ Science is organized collective reconstruction constrained by grounding.
 
 S2
 
-Theories function as compressed invariant sets capable of reconstructing large regions of reality.
+Theories function as compressed invariant structures.
 
 --------------------------------------------------
 
@@ -570,4 +682,8 @@ Topology
 CENTRAL CLAIM
 ==================================================
 
-Open adaptive systems preserve continuity and generate future possibility through grounded reconstruction under resource limitations, uncertainty, collective interaction and continual topological transformation.
+Open adaptive systems preserve continuity and generate future possibility through reconstruction under resource limitations, uncertainty, collective interaction and continual topological transformation.
+
+Grounding determines the degree to which reconstructions remain externally consistent with the systems and constraints with which they interact.
+
+The implications of the framework are expected to remain open-ended.
